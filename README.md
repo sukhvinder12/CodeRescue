@@ -1,1 +1,1 @@
-CodeResue is a clone application of stack overflow.
+#CodeResue is a clone application of stack overflow.
